@@ -1,0 +1,53 @@
+.background {
+  background-image: url(../images/dhiva-krishna-X16zXcbxU4U-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navs {
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#colorlib-logo {
+  font-size: 34px;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+}
+
+.image-container {
+  overflow: hidden;
+  /* Hide any overflowing content */
+  width: 100%;
+  /* Adjust the width to fit your image */
+  height: 300px;
+  /* Adjust the height to fit your image */
+}
+
+.product-image {
+  transition: transform 0.3s ease;
+  /* Smooth transition effect */
+}
+
+.product-image:hover {
+  transform: scale(1.2);
+  /* Zoom in by 20% on hover */
+}
+
+.text {
+  font-size: 15px;
+  color: tomato;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.border-end {
+  color: rgb(72, 37, 30);
+  border: thin;
+}
+
+.txt {
+  font-weight: bold;
+  color: blueviolet;
+}
